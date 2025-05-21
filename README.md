@@ -3,35 +3,38 @@
 ### Conheça o projeto: https://techsolutionspro.com.br/
 - React.Js
 - TypeScript
+- Node.Js
 - Tailwind.CSS
 
 ## Hero
 
-![lp-layout-1](https://github.com/user-attachments/assets/3a9e71c1-52fb-436e-ac2e-5aa24e4d6050)
+![landing-page-tspro-img1](https://github.com/user-attachments/assets/100cadf4-bfdd-44df-8b60-1ee643522004)
 
 ## Serviços
 
-![lp-layout-2](https://github.com/user-attachments/assets/b920b4f8-d910-47ce-b5f1-62e098e68248)
+![landing-page-tspro-img2](https://github.com/user-attachments/assets/cc8e2881-7612-4848-b5b8-5882d8211e01)
 
 ## Portfólio
 
-![lp-layout-3](https://github.com/user-attachments/assets/6db72d11-6fc7-4d9b-a899-4133a6b63eb5)
+![landing-page-tspro-img3](https://github.com/user-attachments/assets/cf8a283b-4c2d-46aa-b671-0489bddf26d6)
 
 ## Depoimentos
 
-![lp-layout-4](https://github.com/user-attachments/assets/1fd11d60-a355-4972-b272-01f4bad4d9a7)
+![landing-page-tspro-img4](https://github.com/user-attachments/assets/de6a072c-c0d6-493d-b549-69588a1806dd)
 
 ## FAQ
 
-![lp-layout-5](https://github.com/user-attachments/assets/8211b0f2-6dab-4a4a-a099-5b45dce5b210)
+![landing-page-tspro-img5](https://github.com/user-attachments/assets/30b2ed73-cda7-4267-8348-880524788dbf)
 
 ## Formulário
 
-![lp-layout-6](https://github.com/user-attachments/assets/672bdeb1-2bb5-45b2-afcd-a580ac8870b8)
+![landing-page-tspro-img6](https://github.com/user-attachments/assets/da3bddad-1978-4083-9473-99fde5b066e5)
 
 ## Footer
 
-![lp-layout-7](https://github.com/user-attachments/assets/26ed40f6-2076-4849-8b20-0e19b2dc1992)
+![landing-page-tspro-img7](https://github.com/user-attachments/assets/c1b9e9be-8ab2-4b37-bde1-8e091102a905)
+
+![landing-page-tspro-img8](https://github.com/user-attachments/assets/873dce95-abb7-40c8-b23a-cf225061add8)
 
 
 Landing Page moderna em React.js, TypeScript e Tailwind.CSS, com carrossel de projetos e depoimentos, e WhatsApp para contato. Tudo para destacar seus serviços!
